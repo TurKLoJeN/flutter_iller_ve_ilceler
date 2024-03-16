@@ -1,4 +1,4 @@
-# Flutter Vücut Kitle Endeksi
+# Flutter İl ve İlçe Listesi
 
 Bu projeyi flutter dart üzerinde kendimi geliştirmek ve öğrendiklerimi pekiştirmek için yaptım. Kendimi Flutter/Dart konusunda geliştirmeye devam edeceğim.Bu projede json bir iller ve ilçeler listesini alıp çözümleyerek listelemeyi öğrendim
 
